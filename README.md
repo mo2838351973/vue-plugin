@@ -2,7 +2,7 @@
 
 > A Vue.js plugin
 
-## Build Setup
+## 他人安装下载依赖
 
 ```
 # install dependencies
@@ -12,7 +12,12 @@ npm install sumyhhplugin --save
 import myPlugin from 'sumyhhplugin'
 Vue.use(myPlugin);
 ```
-
+## 本地运行及打包
+```
+npm install
+npm run dev
+npm run build
+```
 
 
 # 发布一个vue组件到npm
